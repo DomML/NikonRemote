@@ -1,6 +1,7 @@
 // Nikon Remote Emulator by Gough Lui (http://goughlui.com)
 // ledPin = IR +
 // A0 = IR -
+// On github !
 
 int count=0;
 int buttonState = 0;
